@@ -1,0 +1,6 @@
+Type,Value,Description
+IP,89.144.44.41,Malicious outbound connection
+IP,103.225.77.255,Phishing infrastructure
+Domain,access-accsecurity.com,Phishing sender domain
+Domain,thebandalisty.com,Malicious domain
+URL,https://sign.in/,Credential harvesting URL
