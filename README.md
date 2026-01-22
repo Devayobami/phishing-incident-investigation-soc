@@ -90,8 +90,8 @@ This project was conducted in a simulated environment for portfolio purposes onl
 
 
 ## Author
-## Abubakar Yusuf
-## SOC Analyst | Cybersecurity Professional
+Abubakar Yusuf
+ SOC Analyst | Cybersecurity Analyst
 
 
 ## Why This Project Matters
